@@ -9,12 +9,12 @@ Repositórios para armazenar resumos sobre Git e GitHub do curso Versionamento d
 
 ## Resumos das Aulas
 
-| Aulas | Resumos |
-|------|---------|
-| Configurando o Git| [Video](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f9b294d2-f8ca-4364-9031-1e897721b3e2?autoplay=1&back=%2Ftrack%2Fsantander-linux-para-iniciantes&moduleId=undefined&tab=undefined) |
-| Autenticando via Token | [Video](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/3d13d85f-2508-4396-9657-4643d3302c79?autoplay=1&back=%2Ftrack%2Fsantander-linux-para-iniciantes&moduleId=undefined&tab=undefined) |
-| Criando e Clonando repositórios | [Video](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?autoplay=1&back=%2Ftrack%2Fsantander-linux-para-iniciantes&moduleId=undefined&tab=undefined)
-| Salvando alterações no repositório local | [Video](https://web.dio.me/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1&back=%2Ftrack%2Fsantander-linux-para-iniciantes&moduleId=undefined&tab=undefined) | 
+| Aulas | Conteúdos |
+|------|----|
+| Configurando o Git| [Video](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f9b294d2-f8ca-4364-9031-1e897721b3e2?autoplay=1&back=%2Ftrack%2Fsantander-linux-para-iniciantes&moduleId=undefined&tab=undefined) / [Comandos](https://github.com/VitorBASH/dio-resumos-git-github?tab=readme-ov-file#comandos---configurando-o-git) |
+| Autenticando via Token | [Video](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/3d13d85f-2508-4396-9657-4643d3302c79?autoplay=1&back=%2Ftrack%2Fsantander-linux-para-iniciantes&moduleId=undefined&tab=undefined) / [Comandos](https://github.com/VitorBASH/dio-resumos-git-github?tab=readme-ov-file#comandos---autenticando-via-token)
+| Criando e Clonando repositórios | [Video](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?autoplay=1&back=%2Ftrack%2Fsantander-linux-para-iniciantes&moduleId=undefined&tab=undefined) / [Comandos](https://github.com/VitorBASH/dio-resumos-git-github?tab=readme-ov-file#comandos---criando-e-clonando-reposit%C3%B3rios)
+| Salvando alterações no repositório local | [Video](https://web.dio.me/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1&back=%2Ftrack%2Fsantander-linux-para-iniciantes&moduleId=undefined&tab=undefined) / [Comandos](https://github.com/VitorBASH/dio-resumos-git-github?tab=readme-ov-file#comandos---salvando-altera%C3%A7%C3%B5es-no-reposit%C3%B3rio-local)
 
 ### Comandos - Configurando o git
 
